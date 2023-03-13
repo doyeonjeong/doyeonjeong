@@ -9,4 +9,8 @@ a.k.a 인간 소라카 정도연입니다. 👋
 에 기록하고 있습니다.
 
 ![doyeonjeong GitHub Trophies](https://dooboo.io/api/github-trophies?login=doyeonjeong)
-![doyeonjeong GitHub Stats](https://dooboo.io/api/github-stats-advanced?login=doyeonjeong)
+
+<img
+src="https://dooboo.io/api/github-stats-advanced?login=doyeonjeong"
+style="width:560px"
+/>
