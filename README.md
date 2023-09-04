@@ -16,14 +16,17 @@
 <!-- </div><br><br><br> -->
 
 
-<div align="center">
-<img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/e248101e-0973-412c-8a86-4d9e5ba4e72c"/>
-</div><br>
+<!-- <div align="center"> -->
+<!-- <img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/e248101e-0973-412c-8a86-4d9e5ba4e72c"/> -->
+<!-- </div><br> -->
 
 <div align="center">
 <p>
 <!-- <a href="https://doyeonjeong.notion.site/Today-I-Learn-a7325fee43a04727bfbfcbcce6776079"><img src="https://img.shields.io/badge/Today_I_Learned-000000?&style=flat-square&logo=Notion&logoColor=white"/></a> -->
-<a href="https://url.kr/6rclnv"><img src="https://img.shields.io/badge/WWDC_NOTE-000000?&style=flat-square&logo=Notion&logoColor=white"/></a>
+  안녕하세요!☺️ 지식 공유형 학습을 좋아하는 개발자 정도연입니다. <br><br>
+공식문서 기반의 학습을 추구하며<br>
+<a href="https://url.kr/6rclnv"><img src="https://img.shields.io/badge/WWDC_노트-000000?&style=flat-square&logo=Notion&logoColor=white"/></a>는 이렇게 정리하고 있습니다.<br>
+이력서는 <a href="[https://url.kr/6rclnv](https://doyeonjeong.notion.site/9d0c29e25c6249879e3dc788ff4c5eec?pvs=4)"><img src="https://img.shields.io/badge/여기-000000?&style=flat-square&logo=Notion&logoColor=white"/></a>에서 볼 수 있습니다.<br>
 
 </p><br><br>
 
@@ -57,5 +60,7 @@
 </div><br><br>
 
 <div align="center">
-<a href="mailto:debby_@kakao.com"><img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/ffc71c58-3ba2-4b53-a911-caf55033ab3f"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=doyeonjeong&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonjeong&layout=compact&theme=tokyonight"/>
+<!-- <a href="mailto:debby_@kakao.com"><img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/ffc71c58-3ba2-4b53-a911-caf55033ab3f"/></a> -->
 </div><br>
