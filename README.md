@@ -23,14 +23,44 @@
 <div align="center">
 <p>
 <!-- <a href="https://doyeonjeong.notion.site/Today-I-Learn-a7325fee43a04727bfbfcbcce6776079"><img src="https://img.shields.io/badge/Today_I_Learned-000000?&style=flat-square&logo=Notion&logoColor=white"/></a> -->
-  안녕하세요!☺️ 지식 공유형 학습을 좋아하는 개발자 정도연입니다. <br><br>
-공식문서 기반의 학습을 추구하며<br>
-<a href="https://url.kr/6rclnv"><img src="https://img.shields.io/badge/WWDC_노트-000000?&style=flat-square&logo=Notion&logoColor=white"/></a>는 이렇게 정리하고 있습니다.<br>
-이력서는 <a href="[https://url.kr/6rclnv](https://doyeonjeong.notion.site/9d0c29e25c6249879e3dc788ff4c5eec?pvs=4)"><img src="https://img.shields.io/badge/여기-000000?&style=flat-square&logo=Notion&logoColor=white"/></a>에서 볼 수 있습니다.<br>
-
-</p><br><br>
-
-
+  안녕하세요!☺️ <br>
+  지식 공유형 학습을 좋아하는 개발자 정도연입니다. <br>
+  코드 리뷰를 통한 성장과, 공식문서 기반의 학습을 추구합니다.<br><br>
+</p>
+ <!--  
+<p>  
+  현재 야곰 코드 스타터 10기 교육을 수강하면서 이유있는 코드를 작성하기 위해 노력하고 있습니다. 😚
+  <details>
+  <summary> 이유있는 코드를 고민한 흔적들 ... </summary>
+    <h3> Week1 </h3>
+      - <a href="https://github.com/yagom-academy/swift-starter-week1/pull/659"> STEP 1 : 소개 및 PR </a><br>
+      - <a href="https://github.com/yagom-academy/swift-starter-week1/pull/716"> STEP 2 : 코드로 주어진 그림 그리기 </a><br>
+      - <a href="https://github.com/yagom-academy/swift-starter-week1/pull/724"> STEP 3 : 매개변수를 활용한 로직 구현하기 </a><br>
+    <h3> Week2 </h3>
+      - <a href="https://github.com/yagom-academy/swift-starter-week2/pull/576"> STEP 1 : 순서도 그리기 </a><br>
+      - <a href="https://github.com/yagom-academy/swift-starter-week2/pull/586"> STEP 2 : 순서도 기반 로직 구현하기 </a><br>
+      - <a href="https://github.com/yagom-academy/swift-starter-week2/pull/595"> STEP 3 : 로직 응용하기 </a><br>
+  </details>
+</p>
+-->
+   <!--  
+<p>
+<details>
+  <summary> 공부 기록 </summary>
+  <h4> <a href="https://github.com/doyeonjeong/TOV_TIL/blob/main/TroubleShooting/The%20data%20couldn%E2%80%99t%20be%20read%20because%20it%20is%20missing.md">Today I Learn</a> </h4>
+  <h4> <a href="https://url.kr/6rclnv">WWDC NOTE</a> </h4>
+</details>
+</p>
+-->
+ <!--  
+<p>
+<details>
+  <summary> 포트폴리오 </summary>
+  <br>
+  <a href="[https://url.kr/6rclnv](https://doyeonjeong.notion.site/9d0c29e25c6249879e3dc788ff4c5eec?pvs=4)"><img src="https://img.shields.io/badge/포트폴리오-000000?&style=flat-square&logo=Notion&logoColor=white"/></a>
+</details>
+</p>
+-->
 <div align="center">
 <img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/ca82e821-7d84-4cbf-9623-d12abfb0135b"/>
 </div><br>
@@ -64,3 +94,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonjeong&layout=compact&theme=tokyonight"/>
 <!-- <a href="mailto:debby_@kakao.com"><img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/ffc71c58-3ba2-4b53-a911-caf55033ab3f"/></a> -->
 </div><br>
+
+<!-- <div align="center"> -->
+<!-- <a href="https://url.kr/6rclnv"><img src="https://img.shields.io/badge/WWDC_노트-000000?&style=flat-square&logo=Notion&logoColor=white"/></a><br> -->
+<!-- <a href="[https://url.kr/6rclnv](https://doyeonjeong.notion.site/9d0c29e25c6249879e3dc788ff4c5eec?pvs=4)"><img src="https://img.shields.io/badge/포트폴리오-000000?&style=flat-square&logo=Notion&logoColor=white"/></a><br> -->
+<!-- </div> -->
