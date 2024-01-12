@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/ca82e821-7d84-4cbf-9623-d12abfb0135b"/>
+  <img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/38f635b7-3e25-497f-9852-c10cc97e057a"/>
 </div><br>
 
 <div align="center">
@@ -36,3 +36,26 @@
   <img src="https://github-readme-stats.vercel.app/api?username=doyeonjeong&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonjeong&layout=compact&theme=tokyonight"/>
 </div><br>
+
+<div align="center">
+  <img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/4b44d5ed-e8a7-4ed5-bbcb-12169c52f696"/>
+</div><br>
+
+<div align="left">
+  <a href="https://github.com/doyeonjeong/BlockingAndHidingApp-iOS"><h3> 앱 차단기 </h3></a>
+  <p> UIKit + SwiftUI | 도파민 중독에서 벗어나기 위해 특정 앱을 일정 시간동안 차단시키는 앱 | 개인 프로젝트 기획,디자인,배포 </p>
+  <a href=""><h3> AppStoreClone </h3></a>
+  <p> SwiftUI | 앱 스토어 검색 탭 화면 구현 </p>
+  <a href=""><h3> Netflix </h3></a>
+  <p> UIKit | CompositionalLayout 과 DiffableDataSourse 를 사용한 넷플릭스 홈 탭 레이아웃 구현 </p>
+  <a href="https://github.com/M1zz/RelaxOn"><h3> Relax On - 수면 백색 소음 & 자연의 소리 </h3></a>
+  <p> SwiftUI | 커스텀 ASMR 만들기 앱 | 팀 프로젝트 </p>
+  <a href="https://github.com/doyeonjeong/ScreenTimeAPI-Example"><h3>ScreenTimeAPI-Example </h3></a>
+  <p> UIKit + SwiftUI | 앱 차단기 구현하기 전 ScreenTimeAPI를 테스트하기 위한 예제 </p>
+  <a href=""><h3> SwiftUI-MVVM-Test </h3></a>
+  <p> SwiftUI | SwiftUI 에서 MVVM의 로직을 파악하기 위한 예제 프로젝트 </p>
+  <a href="https://github.com/doyeonjeong/SwiftData-Tutorial"><h3> SwiftData-Tutorial </h3></a>
+  <p> KWDC23 Session 발표 | 한번에 SwiftData 사용 로직을 파악할 수 있는 스타터 프로젝트 </p>
+  <a href="https://github.com/BluePepper-iOS/DYBlinkObject"><h3> DYBlinkObject </h3></a>
+  <p> CocoaPods, SPM | 깜박거리는 도형을 편리하게 만들기 위한 오픈 소스 제작 </p>
+</div>
