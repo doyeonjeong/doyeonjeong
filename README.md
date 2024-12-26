@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=doyeonjeong&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonjeong&layout=compact&theme=tokyonight"/>
 </div><br>
-
+<!--
 <div align="center">
   <img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/4b44d5ed-e8a7-4ed5-bbcb-12169c52f696"/>
 </div><br>
@@ -74,3 +74,4 @@
   ▶️ <a href="https://github.com/BluePepper-iOS/DYBlinkObject"> BluePepper-iOS/DYBlinkObject </a><br><br>
   <p> CocoaPods, SPM | 깜박거리는 도형을 편리하게 만들기 위한 오픈 소스 제작 </p>
 </div>
+-->
