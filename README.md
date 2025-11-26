@@ -51,16 +51,16 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=doyeonjeong&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=86400"
     alt="Doyeon's GitHub stats"
-    style="width: 48%; min-width: 300px;"
+    style="height: 200px;"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonjeong&layout=compact&theme=tokyonight"
     alt="Top languages"
-    style="width: 48%; min-width: 300px;"
+    style="height: 200px;"
   />
 </div>
 
-
+<br/>
 
 <p align="center">
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdoyeonjeong&label=Visited&icon=github&color=%236ea8fe&style=flat-square&tz=Asia%2FSeoul">
