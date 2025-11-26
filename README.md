@@ -51,12 +51,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=doyeonjeong&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=86400"
     alt="Doyeon's GitHub stats"
-    style="height: 200px;"
+    style="height: 140px;"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonjeong&layout=compact&theme=tokyonight"
     alt="Top languages"
-    style="height: 200px;"
+    style="height: 140px;"
   />
 </div>
 
