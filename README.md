@@ -4,14 +4,44 @@
 </p>
 
 <p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=doyeonjeong&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/doyeonjeong?pet-id=781388521180926249"
-      width="600"
-      height="120"
-    />
-  </a>
+  앱을 만들고, AI 에이전트가 안전하게 일하는 구조를 만듭니다.
 </p>
+
+<!--
+  [초안 메모 — 도연 확인 후 지울 것]
+  아래 표의 레포 중 지금 비공개(private)인 것은 방문자에게 404로 보입니다.
+  App Store 링크는 2026-10-14에 페이지 응답(200)만 확인했습니다. 실제 판매 상태는 도연이 확인합니다.
+  공개 전환 여부는 portfolio 레포 docs/aigen-2027/repo-cleanup.md 의 승인 목록에서 결정합니다.
+-->
+
+## 대표 프로젝트
+
+### 앱 차단기 — 같은 문제를 다룬 세 레포
+
+| 레포 | 시기 | 한 줄 |
+|---|---|---|
+| [Tublock](https://github.com/doyeonjeong/Tublock) | 2023 · 2인 팀 | YouTube 시청 시간 제한 앱. Screen Time 권한 문제에서 멈춘 첫 시도 |
+| [앱 차단기](https://github.com/doyeonjeong/BlockingAndHidingApp-iOS) | 2023~2025 · 개인 | Screen Time API로 앱을 차단·숨기는 앱. 기획·디자인·개발·[App Store 배포](https://apps.apple.com/us/app/%EC%95%B1-%EC%B0%A8%EB%8B%A8%EA%B8%B0/id6455080663) |
+| [MoreWin](https://github.com/doyeonjeong/morewin) | 2026 · 개인 | 시간대별 자동 차단과 미션 기반 잠금 해제로 아침·저녁 루틴 만들기 |
+
+### AI 에이전트 운영 체계
+
+| 레포 | 한 줄 |
+|---|---|
+| [autopilot](https://github.com/doyeonjeong/autopilot) | 발주서 하나로 코딩→빌드→테스트→리뷰→승인 게이트까지 도는 macOS 자율 코딩 파이프라인 |
+| [agent-hq](https://github.com/doyeonjeong/agent-hq) | Claude·Codex·Gemini가 두 기기에서 같은 규칙과 기억을 쓰게 하는 허브 |
+| [dyoi-bot](https://github.com/doyeonjeong/dyoi-bot) | Telegram 지시를 AI CLI에 위임하고 Obsidian을 검색하는 개인 봇 |
+
+### AI 서비스
+
+| 레포 | 한 줄 |
+|---|---|
+| [review-mate](https://github.com/doyeonjeong/review-mate) | 사진 → AI 인터뷰 → 리뷰 초안 → 네이버 블로그 임시저장 |
+
+## 활동
+
+- KWDC23 세션 발표 — SwiftData 스타터 프로젝트 [SwiftData-Tutorial](https://github.com/doyeonjeong/SwiftData-Tutorial)
+- 오픈소스 [DYBlinkObject](https://github.com/doyeonjeong/DYBlinkObject) — 깜박이는 도형을 쉽게 만드는 Swift 라이브러리 (CocoaPods, SPM)
 
 <br>
 
@@ -59,41 +89,3 @@
     style="height: 140px;"
   />
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdoyeonjeong&label=Visited&icon=github&color=%236ea8fe&style=flat-square&tz=Asia%2FSeoul">
-</p>
-
-<!--
-<div align="center">
-  <img height="25" src="https://github.com/doyeonjeong/doyeonjeong/assets/108422901/4b44d5ed-e8a7-4ed5-bbcb-12169c52f696"/>
-</div><br>
-<div align="left">
-  <h3> 앱 차단기 </h3>
-  ▶️ <a href="https://github.com/doyeonjeong/BlockingAndHidingApp-iOS"> doyeonjeong/BlockingAndHidingApp-iOS </a><br><br>
-  <p> UIKit + SwiftUI | 도파민 중독에서 벗어나기 위해 특정 앱을 일정 시간동안 차단시키는 앱 | 개인 프로젝트 기획,디자인,배포 </p>
-  <h3> AppStore Search Tab </h3>
-  ▶️ <a href="https://github.com/doyeonjeong/AppStoreCloneTest"> doyeonjeong/AppStoreCloneTest </a><br><br>
-  <p> SwiftUI | 앱 스토어 검색 탭 화면 구현 </p>
-  <h3> Netflix Home Tab </h3>
-  ▶️ <a href="https://github.com/doyeonjeong/Netflix-iOS"> doyeonjeong/Netflix-iOS </a><br><br>
-  <p> UIKit | CompositionalLayout 과 DiffableDataSourse 를 사용한 넷플릭스 홈 탭 레이아웃 구현 </p>
-  <h3> Relax On - 수면 백색 소음 & 자연의 소리 </h3>
-  ▶️ <a href="https://github.com/M1zz/RelaxOn"> M1zz/RelaxOn </a><br><br>
-  <p> SwiftUI | 커스텀 ASMR 만들기 앱 | 팀 프로젝트 </p>
-  <h3> ScreenTimeAPI Example </h3>
-  ▶️ <a href="https://github.com/doyeonjeong/ScreenTimeAPI-Example"> doyeonjeong/ScreenTimeAPI-Example </a><br><br>
-  <p> UIKit + SwiftUI | 앱 차단기 구현하기 전 ScreenTimeAPI를 테스트하기 위한 예제 </p>
-  <h3> SwiftUI MVVM Example </h3>
-  ▶️ <a href="https://github.com/doyeonjeong/SwiftUI-MVVM-Test"> doyeonjeong/SwiftUI-MVVM-Test </a><br><br>
-  <p> SwiftUI | SwiftUI 에서 MVVM의 로직을 파악하기 위한 예제 프로젝트 </p>
-  <h3> SwiftData Tutorial </h3>
-  ▶️ <a href="https://github.com/doyeonjeong/SwiftData-Tutorial"> doyeonjeong/SwiftData-Tutorial </a><br><br>
-  <p> KWDC23 Session 발표 | 한번에 SwiftData 사용 로직을 파악할 수 있는 스타터 프로젝트 </p>
-  <h3> DYBlinkObject Open Source </h3>
-  ▶️ <a href="https://github.com/BluePepper-iOS/DYBlinkObject"> BluePepper-iOS/DYBlinkObject </a><br><br>
-  <p> CocoaPods, SPM | 깜박거리는 도형을 편리하게 만들기 위한 오픈 소스 제작 </p>
-</div>
--->
